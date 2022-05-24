@@ -1,0 +1,6 @@
+nama: raviel adhytama
+umur: 21
+alamat: jalan biru no 13
+Nama: javier biroo
+Umur: 18
+Alamat: jalan eglare no 15
