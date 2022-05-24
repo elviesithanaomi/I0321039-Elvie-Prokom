@@ -1,0 +1,4 @@
+nama: raviel
+umur: 23
+alamat: gentan
+.format
